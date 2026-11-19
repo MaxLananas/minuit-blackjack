@@ -1,7 +1,0 @@
-# Fichiers temporaires de Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Capture temporaire créée pendant la vérification de l'interface
-settings_preview.png
